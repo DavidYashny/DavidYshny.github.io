@@ -1,0 +1,56 @@
+.nazv {
+    display:flex;
+        flex-direction:row-reverse;
+    outline-color: crimson, 3px
+}
+.head {
+    display:flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.Comp {
+    display:flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    text-decoration-color: crimson;
+        outline-color: crimson, 3px
+}
+.Comp1 {
+    display:flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+        text-decoration-color: crimson;
+    outline-color: crimson, 3px
+}
+.Comp2 {
+    display:flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+        text-decoration-color: crimson;
+    outline-color: crimson, 3px
+}
+.Comp3 {
+    display:flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+        text-decoration-color: crimson;
+    outline-color: crimson, 3px
+}
+.Comp4 {
+    display:flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+        text-decoration-color: crimson;
+    outline-color: crimson, 3px
+}
+.Comp5 {
+    display:flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+        text-decoration-color: crimson;
+    outline-color: crimson, 3px
+}
+div {
+    outline: 3px solid crimson;
+}
+li {color:red}
